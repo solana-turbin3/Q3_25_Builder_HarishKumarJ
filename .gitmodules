@@ -1,0 +1,6 @@
+[submodule "ts-prereq"]
+	path = ts-prereq
+	url = https://github.com/hdharish01/ts-prereq.git
+[submodule "rs-prereq"]
+	path = rs-prereq
+	url = https://github.com/hdharish01/rs-prereq.git
