@@ -4,3 +4,6 @@
 [submodule "rs-prereq"]
 	path = rs-prereq
 	url = https://github.com/hdharish01/rs-prereq.git
+[submodule "solana-starter"]
+	path = solana-starter
+	url = https://github.com/hdharish01/solana-starter.git
